@@ -1,1 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightgray;
+    padding: 20px;
+}
 
+.biography {
+    max-width: 600px;
+    margin: 20px;
+    background-color: white;
+}
+
+p {
+    color: black;
+    margin-top: 10px;
+}
+
+.highlight {
+    background-color: lightyellow;
+    color: black;
+    border-radius: 30px;
+}
