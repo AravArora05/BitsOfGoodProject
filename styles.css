@@ -2,12 +2,16 @@ body {
     font-family: Arial, sans-serif;
     background-color: lightgray;
     padding: 20px;
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
 }
 
 .biography {
     max-width: 600px;
-    margin: 20px;
+    margin: 20px auto;
     background-color: white;
+    padding: 20px;
 }
 
 p {
